@@ -1,1 +1,1 @@
-write a script that lists all files
+write a script that lists ll files
