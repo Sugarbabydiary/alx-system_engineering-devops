@@ -1,1 +1,1 @@
-write a script that lists ll files
+Write a script that prints the type of the file named iamafile
